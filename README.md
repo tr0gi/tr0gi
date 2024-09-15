@@ -1,3 +1,3 @@
-I code in Rust, PHP, MySQL & Frontend web and I'm working on getting OSCP.
-Discord: @tr0gi
+I code in Rust, PHP, MySQL, HTML, CSS and I'm working on getting OSCP.\
+Discord: @tr0gi\
 E-Mail: tr0gi@cock.li
