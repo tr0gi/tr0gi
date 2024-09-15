@@ -1,0 +1,2 @@
+- I code in Rust, PHP, MySQL & Frontend web
+- I'm working on getting OSCP
