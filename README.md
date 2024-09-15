@@ -1,2 +1,1 @@
-- I code in Rust, PHP, MySQL & Frontend web
-- I'm working on getting OSCP
+I code in Rust, PHP, MySQL & Frontend web and I'm working on getting OSCP.
