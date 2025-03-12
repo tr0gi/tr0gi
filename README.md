@@ -1,8 +1,11 @@
 ## Hey, I'm Matteo.
-I strive to make the internet a freer and safer place, on a global scale. I strongly believe in decentralization and peer-to-peer internet protocols.
+I strive to make the internet a freer and safer place, on a global scale.  
+I strongly believe in the use of cryptography for privacy.  
+I code in Rust, PHP and MySQL.  
 
-I code in Rust, PHP, MySQL, HTML & CSS.
-I'm working on getting OSCP.
+> Praise malware and upgrade the standards - me
 
-
-"Praise malware and upgrade the standards" - Me
+## Philosophy
+I align with the philosophies expressed in:
+- [The Cypherpunk Manifesto](https://www.activism.net/cypherpunk/manifesto.html) - *Privacy through technology, not policy*
+- [The GNU Manifesto](https://www.gnu.org/gnu/manifesto.en.html) - *Software freedom as a fundamental right*
